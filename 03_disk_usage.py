@@ -19,3 +19,4 @@ if not check_disk_usage("/",2,10):          #corrected
     sys.exit(1)
 print ("Everything is OKAY")
 sys.exit(0)
+print("okay")
